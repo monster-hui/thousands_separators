@@ -1,10 +1,10 @@
 'use strict';
 
 function thousands_separators(num) {
-        /*if(isNaN(num)){
+        if(isNaN(num)){
 		alert( "illegal input");
 		return num;
-		}/*
+		}
 	 num+='';
 	 var numArray= num.split('.');
 	 var numLeft = numArray[0];
